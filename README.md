@@ -1,9 +1,10 @@
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/Itachidor1/ember-and-thyme/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/Itachidor1/ember-and-thyme/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+
 # Ember & Thyme — Rush-Hour Kitchen
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-orange)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-[![make.fun entry](https://img.shields.io/badge/make.fun-entry-blue)](https://make.fun/bounty/best-cooking-game-20261125-0137)
-
-A complete, original cooking game built for the [make.fun "Make the best cooking game" bounty](https://make.fun/bounty/best-cooking-game-20261125-0137). It runs offline in a desktop browser from static files — no build step, no network requests, no copied art, music or names.
+A complete, original cooking game for the [make.fun "Make the best cooking game" bounty](https://make.fun/bounty/best-cooking-game-20261125-0137). It runs offline in a desktop browser from static files — no build step, no network requests, no copied art, music or names.
 
 ## The game
 
